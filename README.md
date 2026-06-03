@@ -1,0 +1,2 @@
+# Architecture workflow:
+Data Source $\rightarrow$ Kafka (Ingestion) $\rightarrow$ Spark (Processing) $\rightarrow$ Database (Storage) $\rightarrow$ Backend API (Serving) $\rightarrow$ React Dashboard (Visualization).
