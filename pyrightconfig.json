@@ -1,0 +1,13 @@
+{
+  "venvPath": ".",
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "venv": "backend/.venv"
+    },
+    {
+      "root": "ingestion",
+      "venv": "ingestion/.venv"
+    }
+  ]
+}

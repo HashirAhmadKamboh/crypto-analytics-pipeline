@@ -1,2 +1,3 @@
 # Architecture workflow:
-Data Source $\rightarrow$ Kafka (Ingestion) $\rightarrow$ Spark (Processing) $\rightarrow$ Database (Storage) $\rightarrow$ Backend API (Serving) $\rightarrow$ React Dashboard (Visualization).
+
+Binance WebSocket $\rightarrow$ Kafka (Ingestion) $\rightarrow$ Spark Streaming (Processing) $\rightarrow$ PostgreSQL (Storage) $\rightarrow$ FastAPI (Serving) $\rightarrow$ React.js (Dashboard)

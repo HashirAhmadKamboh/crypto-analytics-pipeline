@@ -1,0 +1,22 @@
+{
+	"folders": [
+		// {
+		// 	"path": "."
+		// },
+		{
+			"path": "backend"
+		},
+		{
+      		"path": "ingestion"
+    	},
+		{
+			"path": "processing"
+		},
+		{
+			"path": "frontend"
+		},
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+	}
+}

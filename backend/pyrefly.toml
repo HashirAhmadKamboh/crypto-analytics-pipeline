@@ -1,0 +1,5 @@
+[python]
+interpreter = ".venv/bin/python"
+
+[project]
+site_package_path = [".venv/lib/python3.14/site-packages"]
