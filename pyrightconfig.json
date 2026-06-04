@@ -8,6 +8,10 @@
     {
       "root": "ingestion",
       "venv": "ingestion/.venv"
+    },
+    {
+      "root": "processing",
+      "venv": "processing/.venv"
     }
   ]
 }
